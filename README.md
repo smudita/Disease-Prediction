@@ -1,3 +1,2 @@
-Disease-Prediction
-Disease prediction using symptoms
-trying
+# Disease prediction using symptoms
+
